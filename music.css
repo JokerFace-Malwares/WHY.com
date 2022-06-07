@@ -1,0 +1,28 @@
+h2{
+text-align: center;
+color: purple;
+font-family: cursive;
+}
+form{
+	text-align: center;
+	color: peachpuff;
+	font-family: cursive;
+}
+body{
+	background-image: url(1-12156_music-background-images-hd.png);
+}
+.img1{
+	transition: all 1s;
+}
+.img1:hover{
+	width: 60px;
+	height: 60px;
+}
+
+.img2{
+	transition: all 1s;
+}
+.img2:hover{
+	width: 60px;
+	height: 60px;
+}

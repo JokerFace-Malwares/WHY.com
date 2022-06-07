@@ -1,0 +1,35 @@
+form{
+	text-align: center;
+	font-family: cursive;
+	color: lightgreen;
+}
+body{
+	background-image: url(Motivational-Wallpaper-on-Thoughts-by-Buddha.jpg);
+	background-position: top;
+}
+h2{
+	text-align: center;
+	color: sienna;
+}
+.img1{
+	transition: all 1s;
+}
+.img1:hover{
+	width: 60px;
+	height: 60px;
+}
+
+.img2{
+	transition: all 1s;
+}
+.img2:hover{
+	width: 60px;
+	height: 60px;}
+
+.img3{
+	transition: all 1s;
+}
+.img3:hover{
+	width: 60px;
+	height: 60px;
+}

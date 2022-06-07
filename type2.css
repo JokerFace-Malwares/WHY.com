@@ -1,0 +1,45 @@
+h2{
+	text-align: center;
+	font-family: cursive;
+}
+body{
+	background-image: url(2008522.jpg);
+	background-repeat: no-repeat;
+
+}
+form{
+	text-align: center;
+	font-family: cursive;
+	color: skyblue;
+}
+.img1{
+	transition: all 1s;
+}
+.img1:hover{
+	width: 60px;
+	height: 60px;
+}
+
+.img2{
+	transition: all 1s;
+}
+.img2:hover{
+	width: 60px;
+	height: 60px;
+}
+
+.img3{
+	transition: all 1s;
+}
+.img3:hover{
+	width: 60px;
+	height: 60px;
+}
+
+.img4{
+	transition: all 1s;
+}
+.img4:hover{
+	width: 60px;
+	height: 60px;
+}

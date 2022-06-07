@@ -1,0 +1,49 @@
+h4{
+	text-align: center;
+	color: orange;
+	font-family: fantasy;
+}
+form{
+
+	text-align: center;
+	color: orange;
+	font-family: cursive;
+}
+h2{
+	text-align: center;
+	color: orange;
+	font-family: monospace;
+}
+body{
+background-image: url("food-background-top-view-olive-oil-cherry-tomato-herbs-spices-rustic-black-slate-colorful-food-ingredients-border-food-167614841.jpg") ;
+background-repeat: no-repeat;
+background-position: center;
+background-color: black;
+}
+html{
+	padding: 0px;
+	margin: 0px;
+}
+.img1{
+	transition: all 1s;
+}
+.img1:hover{
+	width: 60px;
+	height: 60px;
+}
+
+.img2{
+	transition: all 1s;
+}
+.img2:hover{
+	width: 60px;
+	height: 60px;
+}
+
+.img3{
+	transition: all 1s;
+}
+.img3:hover{
+	width: 60px;
+	height: 60px;
+}

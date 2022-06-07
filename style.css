@@ -1,0 +1,58 @@
+h1{
+	text-align: center;
+	color: aqua;
+	font-family: cursive;
+}
+
+body{
+background-image: url("food-background-top-view-olive-oil-cherry-tomato-herbs-spices-rustic-black-slate-colorful-food-ingredients-border-food-167614841.jpg") ;
+background-repeat: no-repeat;
+width: 10000;
+height: 10000;
+}
+form{
+	text-align: center;
+	color: orange;
+	font-family: 'Dancing Script', cursive;
+}
+body{
+	backface-visibility: hidden;
+}
+p.dotted{
+	border-style: dotted;
+}
+form{
+	animation-timing-function: step-start;
+}
+
+h4{
+   text-decoration: underline;
+   text-decoration-color: coral;
+}
+hr{
+	color: gold;
+	width: 200;
+}
+.img1{
+	transition: all 1s;
+}
+.img1:hover{
+	width: 60px;
+	height: 60px;
+}
+
+.img2{
+	transition: all 1s;
+}
+.img2:hover{
+	width: 60px;
+	height: 60px;
+}
+
+.img3{
+	transition: all 1s;
+}
+.img3:hover{
+	width: 60px;
+	height: 60px;
+}
